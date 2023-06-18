@@ -6,6 +6,15 @@ This repository contains the following  info about JavaScript, JS libraries and 
 |  2            |React JS Basics                   |  React JS basics exploration                                  | [My Notebook](https://colab.research.google.com/github/BISH0808/JavaScript_basics/blob/main/React_JS.ipynb)
 |  3            |React_Admin_Dashboard_App_ChatGPT | React Admin Dashboard Development with the help of AppChatGPT | [My Notebook](https://colab.research.google.com/github/BISH0808/JavaScript_basics/blob/main/React_Admin_Dashboard_App_ChatGPT.ipynb) | 
 
+
+ 
+ These books are recommended for learning algorithms:
+ 
+| Number        | Name                                                                 | Description                               |  Lanuage         |  
+| ------------- |:--------------------------------------------------------------------:|:-----------------------------------------:|:----------------:|
+|  1            |    Программирование на JavaScript в примерах и задачах      |  JavaScript exploration                    | Russian | 
+ 
+
 #You can run the notebooks on Google Colab by following the links.
 
 
