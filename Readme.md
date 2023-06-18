@@ -12,7 +12,7 @@ This repository contains the following  info about JavaScript, JS libraries and 
  
 | Number        | Name                                                                 | Description                               |  Lanuage         |  
 | ------------- |:--------------------------------------------------------------------:|:-----------------------------------------:|:----------------:|
-|  1            |    Программирование на JavaScript в примерах и задачах      |  JavaScript exploration                    | Russian | 
+|  1            |    Программирование на JavaScript в примерах и задачах      |  JavaScript exploration. Написана Васильевым                   | Russian | 
  
 
 #You can run the notebooks on Google Colab by following the links.
