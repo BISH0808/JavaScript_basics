@@ -1,19 +1,21 @@
-This repository contains the following  info about JavaScript, JS libraries and frameworks.
+This repository contains the following  info and notes about JavaScript, JS libraries and frameworks.
 
 | Number        | Name                             | Description                                                   |  Online Notebook | 
 | ------------- |:--------------------------------:|--------------------------------------------------------------:|-----------------:|
-|  1            |JavaScript Basics                   |  JavaScript Basics  exploration                                  | [My Notebook](https://colab.research.google.com/drive/1KujhBtupg92uebcO2dD1V36WHuPwPboU#scrollTo=4B2YFHamNpW3)
-|  2            |React JS Basics                   |  React JS basics exploration                                  | [My Notebook](https://colab.research.google.com/github/BISH0808/JavaScript_basics/blob/main/React_JS.ipynb)
-|  3            |React_Admin_Dashboard_App_ChatGPT | React Admin Dashboard Development with the help of AppChatGPT | [My Notebook](https://colab.research.google.com/github/BISH0808/JavaScript_basics/blob/main/React_Admin_Dashboard_App_ChatGPT.ipynb) | 
+|  1            |      Notes by UlbiTV               |  Notes from  very good video about React JS fundamentals                     | Russian         | [My Folder](https://github.com/BISH0808/JavaScript_basics/tree/main/Notes_from_UlbiTV_video)
+|  2            |JavaScript Basics                   |  JavaScript Basics  exploration                                  | [My Notebook](https://colab.research.google.com/drive/1KujhBtupg92uebcO2dD1V36WHuPwPboU#scrollTo=4B2YFHamNpW3)
+|  3            |React JS Basics                   |  React JS basics exploration                                  | [My Notebook](https://colab.research.google.com/github/BISH0808/JavaScript_basics/blob/main/React_JS.ipynb)
+|  43            |React_Admin_Dashboard_App_ChatGPT | React Admin Dashboard Development with the help of AppChatGPT | [My Notebook](https://colab.research.google.com/github/BISH0808/JavaScript_basics/blob/main/React_Admin_Dashboard_App_ChatGPT.ipynb) | 
 
 
  
- These books are recommended for learning algorithms:
+ These books are recommended for learning JavaScript:
  
 | Number        | Name                                                                 | Description                               |  Lanuage         |  
 | ------------- |:--------------------------------------------------------------------:|:-----------------------------------------:|:----------------:|
 |  1            |    Программирование на JavaScript в примерах и задачах      |  JavaScript exploration. Написана Васильевым                   | Russian | 
 
+These videos are recommended for learning React JS:
 
 | Number        | Name                             | Description                                                   |  Lanuage         |  Reference       | 
 | ------------- |:--------------------------------:|:-------------------------------------------------------------:|:----------------:|-----------------:|
