@@ -5,7 +5,7 @@ This repository contains the following  info and notes about JavaScript, JS libr
 |  1            |      Notes by UlbiTV               |  Notes from  very good video about React JS fundamentals                     | [My Folder](https://github.com/BISH0808/JavaScript_basics/tree/main/Notes_from_UlbiTV_video)
 |  2            |JavaScript Basics                   |  JavaScript Basics  exploration                                  | [My Notebook](https://colab.research.google.com/drive/1KujhBtupg92uebcO2dD1V36WHuPwPboU#scrollTo=4B2YFHamNpW3)
 |  3            |React JS Basics                   |  React JS basics exploration                                  | [My Notebook](https://colab.research.google.com/github/BISH0808/JavaScript_basics/blob/main/React_JS.ipynb)
-|  43            |React_Admin_Dashboard_App_ChatGPT | React Admin Dashboard Development with the help of AppChatGPT | [My Notebook](https://colab.research.google.com/github/BISH0808/JavaScript_basics/blob/main/React_Admin_Dashboard_App_ChatGPT.ipynb) | 
+|  4            |React_Admin_Dashboard_App_ChatGPT | React Admin Dashboard Development with the help of AppChatGPT | [My Notebook](https://colab.research.google.com/github/BISH0808/JavaScript_basics/blob/main/React_Admin_Dashboard_App_ChatGPT.ipynb) | 
 
 
  
