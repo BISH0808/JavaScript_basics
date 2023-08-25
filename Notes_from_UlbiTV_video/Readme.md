@@ -8,5 +8,5 @@ This repository contains the following  info about JavaScript, JS libraries and 
   |  4            |  JSX                 |  Что такое JSX?                                        | [My Notebook](https://colab.research.google.com/drive/16zlU_kH4LfGQlO_zpfGVEeQvK52yN17b)  
  |  5            |  App and UseState                 |  Компонент App. Работа с состоянием. UseState                                   | [My Notebook](https://colab.research.google.com/drive/1kuVdMnWy2RvTMkzei-EmK2Nitd1yqIwE#scrollTo=kz5s6CEO95Zx)  
  |  6            | State  and Input             |  Управляемый инпут                                 | [My Notebook]( https://colab.research.google.com/drive/1HoBBI_nSKpkF9OjA9cWNNNPXryDy-nbb)  
- |  7            | Function Component            |  Функциональный компонент                                 | My Notebook
+ |  7            | Function Component            |  Функциональный компонент                                 | [My Notebook](https://colab.research.google.com/drive/1TWwEMk7jIKlymkxfyge2_3y4qJP66u7d#scrollTo=pL3tB-sWue9i)  
 
