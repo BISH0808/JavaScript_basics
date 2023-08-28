@@ -9,4 +9,4 @@ This repository contains the following  info about JavaScript, JS libraries and 
  |  5            |  App and UseState                 |  Компонент App. Работа с состоянием. UseState                                   | [My Notebook](https://colab.research.google.com/drive/1kuVdMnWy2RvTMkzei-EmK2Nitd1yqIwE#scrollTo=kz5s6CEO95Zx)  
  |  6            | State  and Input             |  Управляемый инпут                                 | [My Notebook]( https://colab.research.google.com/drive/1HoBBI_nSKpkF9OjA9cWNNNPXryDy-nbb)  
  |  7            | Function Component            |  Функциональный компонент                                 | [My Notebook](https://colab.research.google.com/drive/1TWwEMk7jIKlymkxfyge2_3y4qJP66u7d#scrollTo=pL3tB-sWue9i)  
-
+ |  8            | Class Component            |  Классовый компонент                                 | [My Notebook](https://colab.research.google.com/drive/1uGY4I5-hjdSUKpNDePSWiQIJOiOUY0IG#scrollTo=yIxqcOg8tOPw)  
