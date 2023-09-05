@@ -12,5 +12,4 @@ This repository contains the following  info about JavaScript, JS libraries and 
  |  8            | Class Component            |  Классовый компонент                                 | [My Notebook](https://colab.research.google.com/drive/1uGY4I5-hjdSUKpNDePSWiQIJOiOUY0IG#scrollTo=yIxqcOg8tOPw)  
  |  9            | Hooks            |  Хуки                                 | [My Notebook](https://colab.research.google.com/drive/18iQ7cJYjI_hEevdGq1wFhZFlg6gw2FNH#scrollTo=6QQF2cvuVYuZ)  
  |  10           | Styles. CSS. Classes            |  Стили, CSS, классы                                | [My Notebook]( https://colab.research.google.com/drive/1M2jWbIrL0wcNx3hbMLbZ3oQuhprP3KBu#scrollTo=CGut98S4FfAK) 
- |  11          | Props            |  Props, Аргументы компонента                               | [My Notebook]
-
+ |  11          | Props            |  Props, Аргументы компонента                               | [My Notebook]( https://colab.research.google.com/drive/1hugFknQImyx4wVnV2ensLnpWnIzbxyGs#scrollTo=YbsFpqcSUP-k) 
