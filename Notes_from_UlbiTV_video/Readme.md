@@ -15,4 +15,4 @@ This repository contains the following  info about JavaScript, JS libraries and 
  |  11          | Props            |  Props, Аргументы компонента                               | [My Notebook](https://colab.research.google.com/drive/1hugFknQImyx4wVnV2ensLnpWnIzbxyGs#scrollTo=YbsFpqcSUP-k) 
  | 12           | List. Massives         |   Работы со списками. Преобразование массива объектов в массив React элементов      | [My Notebook](https://colab.research.google.com/drive/1WeqGSydBfj-NY7CORM7MtEay_axujxYy#scrollTo=7CGZPltMbCM4) 
   | 13           | Form        |   Форма создания поста. Управляемые и неуправляемые компоненты      | [My Notebook](https://colab.research.google.com/drive/1MIVnX_lQGxgLIgYIZMqfvZXdI2gBcI6L#scrollTo=DuS9JU5jd7gH) 
-  | 14           | UI library. CSS modules. Props children        |     | 13           | Form        |   Форма создания поста. Управляемые и неуправляемые компоненты      | [My Notebook]    
+  | 14           | UI library. CSS modules. Props children        |       Форма создания поста. Управляемые и неуправляемые компоненты      | [My Notebook]    
