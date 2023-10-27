@@ -19,4 +19,4 @@ This repository contains the following  info about JavaScript, JS libraries and 
  | 15           | Hook useref. Dom element.  Uncontrolled component     |      хук useRef. Доступ к DOM элементу. Неуправляемый компонент     | [My Notebook](https://colab.research.google.com/drive/1hKyxiKZwQhkEmL_iaBGkylC-3EqnuGTA#scrollTo=kEYSENBVOZWm)     
   | 16        | React DevTools  |      React Devtools. Инструменты разработчика React     | [My Notebook](https://colab.research.google.com/drive/1pt6CFqLG6W-WpIh2YfEF0lzUO_uXaoar)    
  | 17       | Post Form  |      Форма для создания поста    | [My Notebook](https://colab.research.google.com/drive/131dECTqSeuBJz46RZsxoPcLa5ZB35GC5#scrollTo=WcTsB7Rtu2st)
-  | 18     | Data Exchange  |     Обмен данными между компонентами. От родителя к ребенку. От ребенка к родителю.    | [My Notebook]
+  | 18     | Data Exchange  |     Обмен данными между компонентами. От родителя к ребенку. От ребенка к родителю.    | [My Notebook](https://colab.research.google.com/drive/1gpAiLDfVXwFQ9Ew5q4iowrGJ3Q5EbbPW#scrollTo=jBpH5_GvQ-Si)
